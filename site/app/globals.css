@@ -5,6 +5,7 @@
   --background-monitor: #C9C7AF;
   --background-monitor-screen: #EEF1DB;
   --foreground: #485B63;
+  --highlight: #f51111;
 }
 
 body {
@@ -14,6 +15,12 @@ body {
   font-size: 18px;
   line-height: 1.5;
   height: 100vh;
+  overflow: hidden;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: underline;
 }
 
 .monitor {
@@ -26,14 +33,16 @@ body {
 .monitor-screen {
   background: var(--background-monitor-screen);
   border-radius: 7px;
-  box-shadow: inset 0px 0px 7px 7px rgba(0,0,0,0.2);
+  box-shadow: inset 1px 1px 7px 7px rgba(0,0,0,0.2);
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+  overflow: hidden;
   padding: 25px 5px;
   width: 100%
 }
 
 .monitor-screen-title {
   border-bottom: solid 4px var(--foreground);
-  margin-bottom: 20px;
+  margin-bottom: 160px;
 }
 
 .monitor-screen-title h1 {
@@ -47,8 +56,47 @@ body {
   margin-bottom: 10px;
 }
 
+.monitor-screen-jumbotron {
+  display: flex;
+  justify-content: center;
+}
+
+.monitor-screen-jumbotron pre {
+  color: var(--highlight);
+  font-family: "Doto";
+  font-weight: 900;
+  width: auto;
+}
+
 .monitor-screen-footer {
   border-top: solid 4px var(--foreground);
-  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
   padding-top: 20px;
+}
+
+.monitor-screen-footer ul {
+  list-style: none;
+}
+
+.monitor-screen-footer li {
+  display: inline-block;
+  margin-right: 40px;
+  position: relative;
+}
+
+.monitor-screen-footer li::after {
+  content: "\25A0";
+  font-size: 14px;
+  position: absolute;
+  right: -25px;
+}
+
+.monitor-screen-footer li:last-child {
+  margin-right: 0;
+}
+
+.monitor-screen-footer li:last-child::after {
+  content: "";
 }
