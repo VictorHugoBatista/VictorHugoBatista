@@ -27,7 +27,11 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <div className="monitor">
+          <div className="monitor-screen">
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );
