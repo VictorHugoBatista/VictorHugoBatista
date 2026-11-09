@@ -81,12 +81,12 @@ The method behind all of this is written up in **[light-sdd-workflow](https://gi
 | area | stack | proof it works |
 |------|-------|----------------|
 | 🖥️ frontend | VueJS · React · React Native · Angular · jQuery | [portfolio](https://github.com/VictorHugoBatista/portfolio) · [SpeedSnake](https://github.com/VictorHugoBatista/SpeedSnake) |
-| ⚙️ backend | Node (JS/TS) — NestJS & Express · PHP — WordPress & Laravel · C# | [nestjs-reactive-api-demo](https://github.com/VictorHugoBatista/nestjs-reactive-api-demo) |
+| ⚙️ backend | Node (JS/TS) — NestJS & Express · PHP — WordPress & Laravel | [nestjs-reactive-api-demo](https://github.com/VictorHugoBatista/nestjs-reactive-api-demo) |
 | 🗄️ databases | MySQL · PostgreSQL · MongoDB | [personal-note-manager](https://github.com/VictorHugoBatista/personal-note-manager) |
 | 🚢 devops | Docker · Kubernetes · ASDF | [php-mysql-env-builder](https://github.com/VictorHugoBatista/php-mysql-env-builder) |
 | 🎮 games | Colyseus · Konva · Zustand · canvas2D · Rust → WASM | [RetroBikes](https://github.com/RetroBikes) · [castle-of-basilisk](https://github.com/VictorHugoBatista/castle-of-basilisk) |
 | 🤖 ai workflow | Claude · GPT · GLM · ralph loop · Orca multi-agent | [light-sdd-workflow](https://github.com/VictorHugoBatista/light-sdd-workflow) |
-| 📚 the study pile | Java/Spring Boot · Terraform | toy repos only :o |
+| 📚 the study pile | Java/Spring Boot · Terraform · a pinch of C# | toy repos only :o |
 
 ```
              .-~~~~-.
