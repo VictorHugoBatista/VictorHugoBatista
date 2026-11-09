@@ -12,6 +12,8 @@
 │  web developer · game tinkerer · ai-wrangler           │
 │  $ cat ~/interests.txt                                 │
 │  linux  terminals  rubiks-cubes  roguelikes            │
+│  $ echo $MATRIX                                        │
+│  the color of television, tuned to a dead channel      │
 │  $ cd castle-of-basilisk && ./build.sh                 │
 │  compiling rust -> wasm ... done. she is awake.        │
 │  $ █                                                   │
@@ -22,6 +24,10 @@
                    ~ ~ ~~
             B ~~~
 ```
+
+> *"Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts… A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding..."*
+>
+> — William Gibson, *Neuromancer*
 
 -----
 
@@ -59,7 +65,7 @@ My favorite kind of project — every line typed by myself, no agents, no shortc
 The hand-built decade taught me where quality comes from — so AI entered my workflow with the humans keeping the architecture and the agents doing the heavy lifting. In production, not just in side projects:
 
 - **Ralph loop at work** — autonomous agent loops (select → prompt → execute → evaluate) running Claude through Copilot on real stories: one small task at a time, with quality gates and human review after every cycle. No "integration week" — bugs get caught while the context is fresh.
-- **Multi-agent orchestration** — nowadays I coordinate several agents with Orca + Claude on a Python project: parallel subtasks, fresh context per task, implementer and reviewer agents working as a team.
+- **Multi-agent orchestration** — nowadays I coordinate several agents with Orca + Claude on a Python project: parallel subtasks, fresh context per task, implementer and reviewer agents working as a team. Hive minds were fiction once — Wintermute would be proud.
 - **Claude, GPT and GLM as interchangeable parts** — I pick the model per job: small and fast for spec review and text processing, stronger ones for code execution and review. The model is a pluggable piece; the workflow stays.
 - **Test harness** — wrote a full-stack automated testing interface in Python + Node, because agent-generated code only counts when the quality gates say so.
 
