@@ -35,7 +35,7 @@ Hello!
 I'm a coding enthusiast who likes to learn new technologies just to see them running.
 I like terminal applications and Linux, and my main hobby is learning new Rubik's cube algs.
 My [dotfiles](https://github.com/VictorHugoBatista/my-dotfiles) are the proof of the first part: zsh with Oh My ZSH, tmux with TPM, vim with vim-plug, Iosevka everywhere — and a soft spot for shell scripts, so `dotfiles-setter.sh` does the heavy lifting.
-I'm currently rediscovering the React web and Java worlds and being amazed at how much they improved :o
+Right now I'm having fun going down the stack: C, a bit of assembly, and an AI book on the nightstand :o
 
 Check out my [portfolio](https://victorhugobatista.github.io/portfolio/#/) — a ReactJS site of my own, with a [blog](https://victorhugobatista.github.io/portfolio/#/blog) where I write about the things I build ([source here](https://github.com/VictorHugoBatista/portfolio)).
 
