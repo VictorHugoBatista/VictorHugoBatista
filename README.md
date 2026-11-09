@@ -39,7 +39,7 @@ Right now I'm having fun going down the stack: C, a bit of assembly, and an AI b
 
 Check out my [portfolio](https://victorhugobatista.github.io/portfolio/#/) — a ReactJS site of my own, with a [blog](https://victorhugobatista.github.io/portfolio/#/blog) where I write about the things I build ([source here](https://github.com/VictorHugoBatista/portfolio)).
 
-Background: BSc in Computer Science (Universidade Cruzeiro do Sul) — and back in 2011, 1st place in the Logic &amp; OO Programming olympiad (level II) with team Breakdown.
+Background: BSc in Computer Science (Universidade Cruzeiro do Sul) — and back in 2011, 1st place in the Logic & OO Programming olympiad (level II) with team Breakdown.
 
 ## 🕸️ A decade of web, the long way around
 
@@ -89,7 +89,7 @@ The method behind all of this is written up in [**light-sdd-workflow**](https://
 | area              | stack                                                                        | proof it works                                                                                                              |
 | ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 🖥️ frontend      | VueJS · React · React Native · Angular · jQuery                              | [portfolio](https://github.com/VictorHugoBatista/portfolio) · [SpeedSnake](https://github.com/VictorHugoBatista/SpeedSnake) |
-| ⚙️ backend        | Node (JS/TS) — NestJS &amp; Express · PHP — WordPress &amp; Laravel — Python | [nestjs-reactive-api-demo](https://github.com/VictorHugoBatista/nestjs-reactive-api-demo)                                   |
+| ⚙️ backend        | Node (JS/TS) — NestJS & Express · PHP — WordPress & Laravel — Python | [nestjs-reactive-api-demo](https://github.com/VictorHugoBatista/nestjs-reactive-api-demo)                                   |
 | 🗄️ databases     | MySQL · PostgreSQL · MongoDB                                                 | [personal-note-manager](https://github.com/VictorHugoBatista/personal-note-manager)                                         |
 | 🚢 devops         | Docker · Kubernetes · ASDF                                                   | [php-mysql-env-builder](https://github.com/VictorHugoBatista/php-mysql-env-builder)                                         |
 | 🐚 terminal life  | zsh · tmux · vim · shell script · Iosevka                                    | [my-dotfiles](https://github.com/VictorHugoBatista/my-dotfiles)                                                             |
@@ -103,7 +103,7 @@ The method behind all of this is written up in [**light-sdd-workflow**](https://
          ≈≈≈( °   B )~ ~ ~ ~ ~ ~
              `-~~~~-'         ~ ~ ~
                                   ~ ~
-                    ▄▄ ▄▄ ▄▄ ▄▄ ▄▄  ~
+                    ▄▄ ▄▄ ▄▄ ▄▄ ▄   ~
                     |           |   ~ ~
                     |           |  ~
          ~ ~ ~ ~ ~  |           | ~ ~ ~ ~ ~
