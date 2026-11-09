@@ -72,6 +72,12 @@ The hand-built decade taught me where quality comes from — so AI entered my wo
 
 The method behind all of this is written up in [**light-sdd-workflow**](https://github.com/VictorHugoBatista/light-sdd-workflow) — featured below.
 
+## 📚 Now studying
+
+- **[Competente o Suficiente](https://ailair.akitaonrails.com/pt-br/book/)** — Fabio Akita's AI book: a year of AI put to the test, no hype, no sponsors. Fitting, since the book itself was drafted by agents and approved by a human — the same philosophy as my workflow above.
+- **Low-level programming** — learning **C** (and a bit of assembly to understand how C behaves underneath), leaning on great YouTube channels and AI agents to fix the knowledge in place.
+- **First study project**: [**ls-tree**](https://github.com/VictorHugoBatista/ls-tree) — an `ls` that displays files as a tree, in plain C. Because writing it by hand is how you learn what the machine is doing.
+
 ## 🏰 Featured projects
 
 - 🦎 [**castle-of-basilisk**](https://github.com/VictorHugoBatista/castle-of-basilisk) — vibecoded survival-horror roguelike with 80s ASCII aesthetics: pure Rust compiled to raw WebAssembly (zero crates, ~27 KB), BFS-driven monster AI, procedural floors with their own temperaments, fear and hallucination systems, fully synthesized WebAudio. Built with agent loops — [playable in your browser](https://victorhugobatista.github.io/castle-of-basilisk/).
@@ -89,7 +95,7 @@ The method behind all of this is written up in [**light-sdd-workflow**](https://
 | 🐚 terminal life  | zsh · tmux · vim · shell script · Iosevka                                    | [my-dotfiles](https://github.com/VictorHugoBatista/my-dotfiles)                                                             |
 | 🎮 games          | Colyseus · Konva · Zustand · canvas2D · Rust → WASM                          | [RetroBikes](https://github.com/RetroBikes) · [castle-of-basilisk](https://github.com/VictorHugoBatista/castle-of-basilisk) |
 | 🤖 ai workflow    | Claude · GPT · GLM · ralph loop · Orca multi-agent                           | [light-sdd-workflow](https://github.com/VictorHugoBatista/light-sdd-workflow)                                               |
-| 📚 the study pile | Java/Spring Boot · Terraform · a pinch of C#                                 | toy repos only :o                                                                                                           |
+| 📚 the study pile | Java/Spring Boot · Terraform · C · a bit of assembly                         | [ls-tree](https://github.com/VictorHugoBatista/ls-tree) · toy repos only :o                                                 |
 
 
 ```
